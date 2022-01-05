@@ -13,6 +13,7 @@ public class Customer {
 	private static final String USER_NAME = "root";
 	private static final String PASSWORD = "root";
 	Scanner src = new Scanner(System.in);
+	
 
 	public void search_flight() {
 		// TODO Auto-generated method stub
